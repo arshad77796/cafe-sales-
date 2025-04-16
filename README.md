@@ -1,7 +1,10 @@
 # cafe-sales-Analysis
 
-Problem:
+Problem statement:
 
+*The management of a local café chain is aiming to improve their business decision-making by analyzing historical sales data. However, the available dataset, comprising 10,000 transaction records, is incomplete and inconsistent, containing various data quality issues such 
+ as:
+*Missing values in key fields like Item, Quantity, Price Per Unit, Total Spent, Payment Method, and Location.
 *Lack of insights into sales performance and customer behavior in the café industry.
 
 Objectives
